@@ -3,9 +3,8 @@ public class PersonApp {
 
 
 
-        var person1 = new Person();
-        person1.name = "joko";
-        person1.address = "balam";
+
+        var person1 = new Person("joko" , "balam");
 
 
         System.out.println(person1.name);
@@ -14,19 +13,25 @@ public class PersonApp {
         person1.sayHello("bagus");
 
 
-        Person person2 = new Person();
+
+        Person person2 = new Person("joko" );
+        person2 = new Person();
+        person2.name = "joko";
+        person2.sayHello("bagus");
 
         Person person3;
         person3 = new Person();
         person3.name = "joko";
         person3.sayHello("bagus");
 
-//        System.out.println(person1);
-//        System.out.println(person2);
-//        System.out.println(person3);
+
 
 
 
     }
 
 }
+
+
+
+
