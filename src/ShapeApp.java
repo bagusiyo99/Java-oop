@@ -7,5 +7,7 @@ public class ShapeApp {
         System.out.println(rectangle.getCorner());
         System.out.println(rectangle.getParentCorner());
 
+
+
     }
 }
