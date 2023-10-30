@@ -2,3 +2,5 @@
 m
 java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾8§¶××·1
 o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Þ¨ÅŸ
+I
+java:S2387","name" is the name of a field in "Location".( þÍ¾8Ç³žá·1
