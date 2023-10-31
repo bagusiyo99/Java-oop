@@ -1,5 +1,9 @@
 package Programmer.bagus.iyo.data;
 
+import Programmer.bagus.iyo.annotion.Fancy;
+
+@Fancy(name = "AnimalApp", tags =  {"application", "java"})
+
 public enum Level {
 
     STANDART ("Standar Level"),

@@ -25,8 +25,6 @@ A
 src/Employee.java,f\e\fe4694514d0eec2198b04dd06a3137809925b236
 B
 src/PersonApp.java,3\2\329128f4c843a7cdd89ea72cc317c3cb8da29509
-c
-3src/Programmer/bagus/iyo/application/AnimalApp.java,1\3\133bdd34a4366d006cf2ea191f2f51ca56f2fc60
 `
 0src/Programmer/bagus/iyo/application/CarApp.java,7\1\71dd10547ca6c8c8d54dbe73bd37b6f39db64bbb
 e
@@ -41,8 +39,6 @@ Y
 )src/Programmer/bagus/iyo/data/Animal.java,0\5\05ec0ba50eedb0a4bf4d2e64720603d1c56542b6
 Y
 )src/Programmer/bagus/iyo/data/Avanza.java,3\c\3c9597010f21b1798dd1a1c9d2bd4fcc3b23125a
-V
-&src/Programmer/bagus/iyo/data/Car.java,3\c\3c50c3fc781652388a7c863975cf93627aacb0d1
 [
 +src/Programmer/bagus/iyo/data/Categori.java,7\2\72e1c83898435d2c29ab165643b269ae59a1d56c
 W
