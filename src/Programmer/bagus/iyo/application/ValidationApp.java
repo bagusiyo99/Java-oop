@@ -11,7 +11,7 @@ public class ValidationApp {
     public static void main(String[] args) {
         LoginRequest loginRequest = new LoginRequest("", "ps");
 
-        //penangan eror
+        //cara pertama eror
 //        try {
 //            ValadationUtil.validate(loginRequest);
 //            System.out.println("Data Valid");
@@ -19,7 +19,7 @@ public class ValidationApp {
 //            System.out.println("Terjadi eror : " + exception.getMessage());
 //        }
 
-        // multiple eror
+        // multiple eror jika lebih dari 1
         try {
             ValadationUtil.validate(loginRequest);
             System.out.println("Data Valid");
@@ -32,6 +32,8 @@ public class ValidationApp {
         //runtime
         LoginRequest loginRequest2 = new LoginRequest("", "ps");
         ValadationUtil.validateRuntime(loginRequest2);
+
+
 
 
 
